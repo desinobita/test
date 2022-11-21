@@ -1,1 +1,1 @@
-run: bash AVIATOR
+worker: bash AVIATOR
