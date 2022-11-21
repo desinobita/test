@@ -28,11 +28,11 @@
             "description": "Your api hash from my.telegram.org",
             "value": ""
         }
-  },
+   },
   "addons": [{
     "plan": "heroku-postgresql",
     "options": {
-      "version": "12"
+      "version": "13"
     }
   }],
   "buildpacks": [{
