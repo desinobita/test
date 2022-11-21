@@ -1,1 +1,1 @@
-worker: bash AVIATOR
+worker: python3 main.py
